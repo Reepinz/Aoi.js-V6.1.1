@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bot":"node index.js"
+    "bot": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aoi.js": "^6.1.1"
+    "aoi.js": "^6.1.1",
+    "aoi.parser": "^1.2.5"
   }
 }
